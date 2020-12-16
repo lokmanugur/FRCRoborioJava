@@ -1,2 +1,2 @@
 ﻿# FRCRoborioJava
-This code written by java programming language with the inclusion of FRC for Roborio computer.
+This code written by java programming language Roborio computer with the inclusion of FRC for.
